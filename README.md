@@ -6,7 +6,7 @@ Supported operating systems are >= Android 4.1 (API 16) and >= iOS 7.0.
 
 - [Getting Started](#getting-started)
 - [Getting Help](#getting-help)
-- [Documentation](#documentation)
+- [Documentation](#documentation)l
 - [Examples](#examples)
 - [Extending React Native](#extending-react-native)
 - [Upgrading](#upgrading)
@@ -21,9 +21,9 @@ See the official [React Native website](https://facebook.github.io/react-native/
 ## Getting Started
 
 - Follow the [Getting Started guide](http://facebook.github.io/react-native/docs/getting-started.html) to install React Native and its dependencies.
-- Check out this [tutorial](https://facebook.github.io/react-native/docs/tutorial.html) to walk through your first project that fetches real data and displays it in a list.
+- Check out this [tutorial](https://facebook.github.io/react-native/docs/sample-application-movies.html) to walk through your first project that fetches real data and displays it in a list.
 - [Open the UIExplorer example project](#examples) to see a list of components that ship with React Native.
-- Install the React Developer Tools for [Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) for better debugging [(read more)](http://facebook.github.io/react-native/docs/debugging.html).
+- Install the React Developer Tools for [Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) or [Firefox](https://addons.mozilla.org/firefox/addon/react-devtools/) for better debugging [(read more)](http://facebook.github.io/react-native/docs/debugging.html).
 - Try out apps from the [Showcase](https://facebook.github.io/react-native/showcase.html) to see what React Native is capable of!
 
 ## Getting Help
